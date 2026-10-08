@@ -1,0 +1,22 @@
+env file:-
+--------------
+a simple text file used to store sensitive 
+ configuration settings, API keys, and environment variables separate from your application code
+- it absalutely maked in main project file (.env)
+- it cant be push to git ,becuase make restriction for it by the devoleper
+
+ppython decouple:-
+-------------------
+
+You can install Python Decouple using pip install python-decouple to strictly separate your application settings from source code.
+
+Core Features
+
+• Environment and File Support: Reads from system environment variables first, then falls back to local .env or settings.ini files.
+• Type Casting: Automatically converts string values to other data types using the cast parameter (e.g., cast=bool, cast=int).
+• Safe Defaults: Allows fallback options via default=VALUE to prevent missing configuration errors.
+• Built-in Helpers: Includes Csv for delimited lists and Choices for validation.
+
+gitignore:-
+-----------
+it is file used to which file we wouldnt want to push to git 
