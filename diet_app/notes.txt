@@ -20,3 +20,13 @@ Core Features
 gitignore:-
 -----------
 it is file used to which file we wouldnt want to push to git 
+
+authantation custombackend:-
+-------------------------
+allredy ret frame work have a authantication backend 
+w
+
+signals:-
+--------------
+
+which we are used to give profile credtional at the time of signup
